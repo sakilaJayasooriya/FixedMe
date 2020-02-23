@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "750039804082",
+    "firebase_url": "https://fixeme-a67e2.firebaseio.com",
+    "project_id": "fixeme-a67e2",
+    "storage_bucket": "fixeme-a67e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750039804082:android:e1bbbd11d993e350",
+        "android_client_info": {
+          "package_name": "com.example.pavithra.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750039804082-8b3pns7hb48pjln1q2i84ftbqf3q0c82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUrKR07LbSebXjF2baqy6s1UtOVTkg-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750039804082:android:7cc1c37120607d20",
+        "android_client_info": {
+          "package_name": "com.example.pavithra.fixedme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750039804082-8b3pns7hb48pjln1q2i84ftbqf3q0c82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUrKR07LbSebXjF2baqy6s1UtOVTkg-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
