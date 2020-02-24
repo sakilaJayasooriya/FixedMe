@@ -2,9 +2,9 @@
 While we are in long ride,if have to face vehicle breakdown easy to connect nearest garage for solve problem.
 
 A garage owner can do the following accessibilities with the system.
-  *Register: Mechanics can register with all their information.
-  *Login: Registered mechanics will be provided access to Login only if the Admin will allow or block.
-  *View request and Accept or Reject request: Mechanics can view the request which is sent by the user.
+  * Register: Mechanics can register with all their information.
+  * Login: Registered mechanics will be provided access to Login only if the Admin will allow or block.
+  * View request and Accept or Reject request: Mechanics can view the request which is sent by the user.
   * View driver’s location using map.
   * Check previous repairs of trouble occurred vehicle.
 
